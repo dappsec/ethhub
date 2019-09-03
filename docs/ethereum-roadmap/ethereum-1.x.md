@@ -7,7 +7,7 @@ description: Ethereum 1.x is an effort to improve performance and storage of the
 ## Summary
 
 Ethereum 1.x is a codename for a comprehensive set of upgrades to the Ethereum mainnet intended for near-term adoption. <br/>
-Ethereum 2.0 (Serenity) won't be fully rolled out for another 2-3 years with Phase 0 and Phase 1 due within 1-2 and Phase 2 due sometime in 2022. Ethereum 2.0 is being deployed as a seperate blockchain so it does not supersede ETH 1.0 which means the chain needs to be sustainable for another 5-10 years.
+Ethereum 2.0 (Serenity) won't be fully rolled out for another 2-3 years with Phase 0 and Phase 1 due within 1-2 and Phase 2 due sometime in 2022. Ethereum 2.0 is being deployed as a separate blockchain so it does not supersede ETH 1.0 which means the chain needs to be sustainable for another 5-10 years.
 
 Eth1.x is a result of a group of Ethereum core developers and friends discussing the current challenges of Ethereum at Devcon IV and realising that they all share a similar view - that the Ethereum mainnet, if left unchanged, would become very hard or impossible to use due to severe performance degradation and increased storage requirements.
 
